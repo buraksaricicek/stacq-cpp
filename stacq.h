@@ -1,9 +1,8 @@
 //
 //  stacq.h
 //  stacq
-//
 //  Created by Burak  on 12.11.2020.
-//
+
 #ifndef STACQ_H
 #define STACQ_H
 
